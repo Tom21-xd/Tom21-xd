@@ -54,6 +54,6 @@ A **Full Stack Developer** from Colombia, passionate about software development 
 ---
 
 ## 📈 GitHub Profile Summary Card
-![Johan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tu-usuario&theme=radical)
-
+![Tom21-xd's Stats](https://github-readme-stats.vercel.app/api?username=Tom21-xd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Tom21-xd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom21-xd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
