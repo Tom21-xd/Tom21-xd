@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Johan Stiven 🚀
+# 👋 ¡Hi, i´m Johan Stiven 🚀
 
 A **Full Stack Developer** from Colombia, passionate about software development and technology.
 
@@ -47,7 +47,8 @@ A **Full Stack Developer** from Colombia, passionate about software development 
 
 ---
 
-## 🔥 Some new technologies I am exploring:
+##
+ 🔥 Some new technologies I am exploring:
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
